@@ -1,3 +1,5 @@
+[Python教程开源项目](https://github.com/cb858504/PythonLearningTravel)
+
 # PythonLearningTravel
 Python 人工智能 爬虫 开发之旅
 
@@ -9,6 +11,9 @@ Python 人工智能 爬虫 开发之旅
 
 
 [Python爬虫之旅之Selenium库的使用](https://www.jianshu.com/p/1aefe2c2a602)
+
+[Python爬虫之旅之豆瓣音乐](https://www.jianshu.com/p/0430879b55e9)
+
 
 
 
